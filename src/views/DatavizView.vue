@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>This is a graph of you steps. lorem ipsum</h1>
+        <h1>This is a graph of your steps.</h1>
         <img src="../assets/graph.png" alt="amazing graph">
     </div>
 </template>
@@ -14,7 +14,7 @@ h1 {
 img {
     max-width: 100%;
     border-radius: 8px;
-    border: 2px solid var(--accent-400);
+    border: 2px solid var(--primary-400);
 }
 div {
     display: flex;

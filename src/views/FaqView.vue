@@ -3,7 +3,7 @@
         <h1>FAQ</h1>
         <div class="inner">
             <h2>How do you track my steps?</h2>
-            <p>Well, thats the thing. We dont! we just show you a made up graph and hope you like it :)</p>
+            <p>Well, thats the thing. We don't! we just show you a made up graph and hope you like it :)</p>
         </div>
         <div class="inner">
             <h2>?</h2>
